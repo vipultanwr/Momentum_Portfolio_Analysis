@@ -1,4 +1,4 @@
-# Analysis of Momentum Portfolio performance with respect to changing interest rate cycle.
+# Analysis of Momentum Portfolio performance with respect to changing interest rates
 
 A momentum portfolio expects to take advantage of going long on assets which have been performing well from sometime. For investing purposese we will look at a long only portfolio.
 

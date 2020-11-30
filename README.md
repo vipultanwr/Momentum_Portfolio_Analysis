@@ -14,3 +14,8 @@ Hypothesis: When rates are on lower side, the momentum portfolio tends to outper
 ![alt text](https://github.com/vipultanwr/Momentum_Portfolio_Analysis/blob/main/plot.png)
 
 
+## TODO: 
+
+1) Add more data to see a clear difference
+2) Mark regions of interest rate cuts in the graph
+3) Find a better way of representing the outperformence in the graph

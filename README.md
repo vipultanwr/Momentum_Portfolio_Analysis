@@ -4,7 +4,11 @@ A momentum portfolio expects to take advantage of going long on assets which hav
 
 Sometimes these portfolios tend to outperform the market while other times they fail. There can be many reasons behind it, we will try to look at it from interest rates' perspective
 
+In the chart below we can see the performance of a monthly rebalanced momentum portfolio which invests in the same ratio as returns of top performing stocks(dark green). We compare it with the benchmark index (dashed orange)
 
+In the light blue color in the background is the 10 Y benchmark bond yield (Indian in this experiment). For understanding the cycle the 2 years rolling yield has been shown in light orange
+
+Hypothesis: When rates are on lower side, the momentum portfolio tends to outperform the benchmark
 
 
 ![alt text](https://github.com/vipultanwr/Momentum_Portfolio_Analysis/blob/main/plot.png)
